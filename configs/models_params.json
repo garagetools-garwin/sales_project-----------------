@@ -1,0 +1,14 @@
+{
+    "RegressionLinear": {
+
+    },
+    "RegressionRandomForest": {
+        "n_estimators": 100
+    },
+    "RegressionCatboost": {
+        "verbose": false
+    },
+    "RegressionLogistic":{
+        
+    }
+}
